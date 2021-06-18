@@ -21,7 +21,7 @@ After reviewing the data, it was found some of the data was faulty
 * Missing data
 * Data type was wrong (float instead of integer)
 
-To complete missing values for ['Feelings','Flavors'] - For each column of 'Feeling'/'Flavor' - found the most frequent feeling for each strain that is a "sibling" or "parent".
+To complete missing values for ['Feelings', 'Flavors'] - For each column of 'Feeling'/'Flavor' - found the most frequent feeling for each strain that is a "sibling" or "parent".
 
 To complete missing values for ['Cannbinoids'] - For each column of 'Cannbinoids' - got the mean value for each strain that is a "sibling" or "parent".
 
