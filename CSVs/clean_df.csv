@@ -47,7 +47,7 @@
 132,Pink Starburst,Hybrid,4.3,40.0,Myrcene,Uplifted,Dry mouth,Stress,Euphoric,Anxious,Anxiety,Relaxed,Dizzy,Depression,Happy,Dry eyes,Eye pressure,Creative,Headache,Fatigue,18.0,0.0,Sweet,Flowery,Tropical
 138,Grandpa’s Stash,Hybrid,4.5,44.0,Myrcene,Relaxed,Anxious,Anxiety,Happy,Dry eyes,Depression,Euphoric,Dry mouth,Stress,Uplifted,Headache,Pain,Creative,N/A,Insomnia,19.0,0.0,Earthy,N/A,N/A
 151,Shurman,Hybrid,4.7,9.0,Myrcene,Relaxed,Dizzy,Eye pressure,Uplifted,Dry mouth,Pain,Sleepy,Headache,Stress,Happy,N/A,Headaches,Focused,N/A,ADD,20.0,0.0,Earthy,Citrus,Flowery
-153,American Beauty,Indica,5.0,2.0,Myrcene,Uplifted,Dry eyes,Cramps,Sleepy,Dry mouth,Depression,Relaxed,N/A,Fatigue,Hungry,N/A,Headaches,Happy,N/A,Inflammation,17.0,0.0,Tropical,Mango,Peach
+153,American Beauty,Indica,5.0,2.0,Caryophyllene,Uplifted,Dry eyes,Cramps,Sleepy,Dry mouth,Depression,Relaxed,N/A,Fatigue,Hungry,N/A,Headaches,Happy,N/A,Inflammation,17.0,0.0,Tropical,Mango,Peach
 157,Lime Haze,Sativa,4.1,34.0,Terpinolene,Happy,Dry eyes,Stress,Euphoric,Dry mouth,Anxiety,Uplifted,Dizzy,Headaches,Energetic,Anxious,Nausea,Creative,Headache,Depression,19.0,0.0,Lime,Sweet,Citrus
 160,Cindy White,Hybrid,4.3,53.0,Caryophyllene,Uplifted,Dry mouth,Stress,Happy,Anxious,Anxiety,Euphoric,Headache,Depression,Relaxed,N/A,Insomnia,Energetic,N/A,Pain,23.0,0.0,Earthy,Pungent,Sweet
 161,Purple Hindu Kush,Indica,4.7,247.0,Limonene,Relaxed,Dry mouth,Stress,Sleepy,Dry eyes,Insomnia,Happy,Dizzy,Pain,Euphoric,Anxious,Anxiety,Hungry,Paranoid,Depression,20.0,0.0,Grape,Earthy,Woody
@@ -135,14 +135,14 @@
 388,Shishkaberry,Indica,4.2,359.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Pain,Uplifted,Paranoid,Depression,Sleepy,Headache,Insomnia,16.0,4.0,Berry,Sweet,Earthy
 389,Blackberry,Hybrid,4.1,573.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Euphoric,Dizzy,Anxiety,Sleepy,Headache,Insomnia,Uplifted,Paranoid,Depression,17.0,2.0,Sweet,Berry,Blueberry
 390,Dream Berry,Indica,4.5,40.0,Pinene,Relaxed,Dry mouth,Pain,Sleepy,Dizzy,Stress,Hungry,Dry eyes,Depression,Uplifted,Headache,Fatigue,Happy,N/A,Insomnia,17.0,11.0,Sweet,Pungent,Tropical
-393,Apollo 13 Haze,Hybrid,5.0,1.0,Myrcene,Uplifted,Anxious,Depression,Tingly,Dry eyes,Fatigue,Talkative,N/A,ADD,Happy,N/A,Alzheimer,Focused,N/A,Anxiety,17.0,9.0,Sweet,N/A,N/A
+393,Apollo 13 Haze,Hybrid,5.0,1.0,Myrcene,Uplifted,Anxious,Depression,Tingly,Dry eyes,Fatigue,Talkative,N/A,ADD,Happy,N/A,Alzheimer,Focused,N/A,Anxiety,17.0,9.0,Earthy,N/A,N/A
 397,Master Jedi,Indica,4.4,74.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Euphoric,Anxious,Pain,Uplifted,Paranoid,Insomnia,Hungry,N/A,Lack of appetite,18.0,10.0,Pine,Earthy,Pungent
 400,B.B. King,Indica,3.8,17.0,Myrcene,Relaxed,Dry mouth,Insomnia,Sleepy,Paranoid,Muscle spasms,Uplifted,N/A,Stress,Happy,N/A,Inflammation,Creative,N/A,Nausea,23.0,1.0,Lemon,Blueberry,Citrus
 402,Orange Kush,Indica,4.1,769.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Pain,Sleepy,Paranoid,Insomnia,Hungry,Headache,Depression,17.0,0.0,Orange,Citrus,Earthy
 405,Mango Dream,Sativa,3.9,49.0,Myrcene,Uplifted,Dry mouth,Pain,Happy,Dry eyes,Stress,Euphoric,Headache,Anxiety,Creative,Anxious,Depression,Energetic,Dizzy,Fatigue,20.0,11.0,Mango,Sweet,Citrus
 409,Face Off OG,Indica,4.7,148.0,Myrcene,Relaxed,Dry mouth,Pain,Euphoric,Dizzy,Depression,Happy,Dry eyes,Stress,Sleepy,Anxious,Anxiety,Uplifted,Headache,Insomnia,19.0,0.0,Earthy,Sweet,Flowery
 410,Sweeties,Hybrid,4.8,28.0,Myrcene,Euphoric,Dry mouth,Stress,Uplifted,Anxious,Anxiety,Relaxed,Dry eyes,Depression,Happy,Paranoid,Pain,Aroused,N/A,Fatigue,22.0,0.0,Earthy,N/A,N/A
-412,Gelatti,Hybrid,4.8,34.0,Caryophyllene,Happy,Dry eyes,Stress,Relaxed,Dry mouth,Depression,Euphoric,Dizzy,Pain,Uplifted,Headache,Insomnia,Sleepy,Anxious,Anxiety,20.0,0.0,Sweet,N/A,N/A
+412,Gelatti,Hybrid,4.8,34.0,Caryophyllene,Happy,Dry eyes,Stress,Relaxed,Dry mouth,Depression,Euphoric,Dizzy,Pain,Uplifted,Headache,Insomnia,Sleepy,Anxious,Anxiety,20.0,0.0,Mint,N/A,N/A
 413,OG Ringo,Hybrid,4.3,21.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dizzy,Pain,Euphoric,Dry eyes,Anxiety,Uplifted,Headache,Depression,Creative,N/A,Inflammation,16.0,0.0,Pine,Earthy,Sweet
 415,Space Cream,Hybrid,4.7,27.0,Myrcene,Relaxed,Dry mouth,Depression,Uplifted,Dry eyes,Stress,Happy,Headache,Pain,Euphoric,Paranoid,Anxiety,Energetic,N/A,Headaches,21.0,0.0,Sweet,Vanilla,Butter
 417,Mango Kush,Hybrid,4.2,1189.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Anxiety,Euphoric,Dizzy,Depression,Uplifted,Paranoid,Pain,Giggly,Headache,Insomnia,18.0,0.0,Mango,Tropical,Sweet
@@ -167,7 +167,7 @@
 466,Granimals,Indica,4.6,33.0,Limonene,Relaxed,Dry mouth,Anxiety,Happy,Headache,Insomnia,Focused,Anxious,Depression,Sleepy,Paranoid,Pain,Euphoric,N/A,Stress,23.0,0.0,Earthy,N/A,N/A
 467,Super Snow Lotus,Hybrid,4.3,3.0,Myrcene,Focused,Anxious,Headaches,Uplifted,Dry eyes,Stress,Talkative,Dry mouth,Depression,Relaxed,N/A,Fatigue,Hungry,N/A,Lack of appetite,17.0,2.0,Earthy,N/A,N/A
 468,Skunky Diesel,Hybrid,4.2,24.0,Myrcene,Uplifted,Dry mouth,Anxiety,Happy,Dry eyes,Stress,Talkative,Dizzy,Pain,Relaxed,Paranoid,Depression,Hungry,N/A,Insomnia,18.0,6.0,Skunk,Diesel,Earthy
-471,Grapefruit Sour Dream,Hybrid,4.5,11.0,Myrcene,Uplifted,Anxious,Fatigue,Happy,Dizzy,Pain,Euphoric,Headache,Stress,Focused,Paranoid,Depression,Energetic,N/A,Lack of appetite,18.0,11.0,Blueberry,N/A,N/A
+471,Grapefruit Sour Dream,Hybrid,4.5,11.0,Myrcene,Uplifted,Anxious,Fatigue,Happy,Dizzy,Pain,Euphoric,Headache,Stress,Focused,Paranoid,Depression,Energetic,N/A,Lack of appetite,18.0,11.0,Sweet,N/A,N/A
 474,LA Jack,Hybrid,3.9,7.0,Terpinolene,Hungry,Dry mouth,Depression,Euphoric,Dry eyes,Insomnia,Tingly,N/A,Pain,Relaxed,N/A,Stress,Creative,N/A,Anxiety,22.0,0.0,Berry,Apple,Blueberry
 476,OGiesel,Hybrid,4.2,76.0,Caryophyllene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Uplifted,Dizzy,Depression,Relaxed,Headache,Pain,Energetic,Paranoid,Lack of appetite,18.0,0.0,Diesel,Earthy,Pine
 478,Banana Hammock R1,Indica,4.6,62.0,Myrcene,Relaxed,Dry eyes,Anxiety,Happy,Dry mouth,Insomnia,Sleepy,Anxious,Stress,Euphoric,Dizzy,PTSD,Hungry,Headache,Pain,12.0,0.0,Sweet,Citrus,Lime
@@ -315,7 +315,7 @@
 832,Chem 91,Hybrid,4.5,183.0,Limonene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Pain,Euphoric,Dizzy,Anxiety,Uplifted,Headache,Depression,Creative,Anxious,Fatigue,21.0,9.0,Earthy,N/A,N/A
 835,Tahoe Purps,Indica,4.0,7.0,Pinene,Relaxed,Anxious,Lack of appetite,Sleepy,Dry mouth,Stress,Hungry,N/A,N/A,Happy,N/A,N/A,Creative,N/A,N/A,15.0,7.0,Earthy,Woody,Citrus
 836,Willy's Wonder,Indica,4.2,238.0,Myrcene,Euphoric,Dry mouth,Anxiety,Relaxed,Dry eyes,Stress,Happy,Dizzy,Pain,Uplifted,Headache,Depression,Sleepy,Paranoid,Insomnia,18.0,4.0,Earthy,N/A,N/A
-841,Chucky's Bride,Hybrid,3.9,8.0,Myrcene,Happy,Dry eyes,Depression,Talkative,Dry mouth,Lack of appetite,Giggly,N/A,Stress,Euphoric,N/A,Anxiety,Energetic,N/A,Headaches,18.0,1.0,Sweet,N/A,N/A
+841,Chucky's Bride,Hybrid,3.9,8.0,Myrcene,Happy,Dry eyes,Depression,Talkative,Dry mouth,Lack of appetite,Giggly,N/A,Stress,Euphoric,N/A,Anxiety,Energetic,N/A,Headaches,18.0,1.0,Citrus,N/A,N/A
 845,Space Bomb,Hybrid,4.5,132.0,Caryophyllene,Uplifted,Dry mouth,Stress,Euphoric,Dry eyes,Depression,Happy,Paranoid,Anxiety,Relaxed,Dizzy,Pain,Focused,Anxious,Fatigue,13.0,0.0,Earthy,Flowery,Sweet
 847,Dream Queen,Hybrid,4.3,368.0,Myrcene,Uplifted,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Pain,Relaxed,Paranoid,Depression,Creative,Anxious,Insomnia,16.0,11.0,Sweet,Citrus,Pungent
 848,Cashus Clay,Hybrid,4.4,5.0,Myrcene,Uplifted,Dry eyes,Stress,Happy,Dry mouth,Depression,Relaxed,Headache,Pain,Focused,N/A,Fatigue,Euphoric,N/A,Insomnia,16.0,10.0,Earthy,Pungent,Butter
@@ -352,7 +352,7 @@
 934,Cannadential,Hybrid,3.9,56.0,Myrcene,Euphoric,Dry mouth,Pain,Happy,Dry eyes,Stress,Uplifted,Headache,Anxiety,Energetic,Dizzy,Depression,Relaxed,Anxious,Migraines,17.0,9.0,Sweet,Woody,Berry
 935,Dutch Dragon,Sativa,4.3,101.0,Myrcene,Happy,Dry mouth,Depression,Euphoric,Dry eyes,Stress,Uplifted,Headache,Pain,Energetic,Paranoid,Anxiety,Creative,Anxious,Fatigue,19.0,1.0,Citrus,Sweet,Tropical
 940,Black Label Kush,Indica,4.1,32.0,Myrcene,Sleepy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Happy,Dizzy,Insomnia,Relaxed,Headache,Pain,Tingly,N/A,Migraines,21.0,0.0,Earthy,Woody,Spicy/Herbal
-946,Alion,Hybrid,4.4,5.0,Myrcene,Uplifted,Anxious,Depression,Relaxed,Paranoid,Fatigue,Happy,Dizzy,Headaches,Tingly,Dry mouth,Inflammation,Talkative,Headache,Insomnia,16.0,11.0,Blueberry,N/A,N/A
+946,Alion,Hybrid,4.4,5.0,Myrcene,Uplifted,Anxious,Depression,Relaxed,Paranoid,Fatigue,Happy,Dizzy,Headaches,Tingly,Dry mouth,Inflammation,Talkative,Headache,Insomnia,16.0,11.0,Sweet,N/A,N/A
 951,Connie Chung,Hybrid,4.1,79.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Pain,Uplifted,Paranoid,Insomnia,Sleepy,N/A,Depression,19.0,9.0,Tea,Sweet,Flowery
 952,Crouching Tiger Hidden Alien,Indica,4.8,20.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dizzy,Depression,Euphoric,Dry eyes,Anxiety,Uplifted,N/A,Fatigue,Tingly,N/A,Insomnia,18.0,0.0,Earthy,Flowery,Pungent
 954,Blue Ivy,Hybrid,4.3,35.0,Caryophyllene,Euphoric,Dry eyes,Depression,Uplifted,Dry mouth,Stress,Happy,Dizzy,Anxiety,Relaxed,Paranoid,Migraines,Energetic,Anxious,Insomnia,15.0,0.0,Blueberry,Sweet,Flowery
@@ -396,7 +396,7 @@
 1064,Jack Haze,Hybrid,4.1,59.0,Terpinolene,Uplifted,Dry mouth,Stress,Happy,Paranoid,Depression,Energetic,Dizzy,Anxiety,Euphoric,Dry eyes,Fatigue,Talkative,Anxious,Pain,14.0,6.0,Earthy,Woody,Pungent
 1070,Peach Cobbler,Hybrid,4.4,26.0,Myrcene,Relaxed,Dry mouth,Depression,Happy,Dry eyes,Stress,Euphoric,Headache,Insomnia,Focused,N/A,Anxiety,Uplifted,N/A,Lack of appetite,17.0,0.0,Strawberry,N/A,N/A
 1072,Himalayan Gold,Hybrid,4.1,51.0,Pinene,Euphoric,Dry mouth,Stress,Uplifted,Dry eyes,Pain,Creative,Paranoid,Insomnia,Sleepy,Dizzy,Anxiety,Happy,Headache,Migraines,16.0,0.0,Earthy,Spicy/Herbal,Sweet
-1079,Cinderella's Dream,Hybrid,4.4,102.0,Myrcene,Uplifted,Dry mouth,Depression,Happy,Dry eyes,Stress,Euphoric,Dizzy,Anxiety,Energetic,Anxious,Lack of appetite,Relaxed,N/A,Fatigue,18.0,11.0,Blueberry,N/A,N/A
+1079,Cinderella's Dream,Hybrid,4.4,102.0,Myrcene,Uplifted,Dry mouth,Depression,Happy,Dry eyes,Stress,Euphoric,Dizzy,Anxiety,Energetic,Anxious,Lack of appetite,Relaxed,N/A,Fatigue,18.0,11.0,Sweet,N/A,N/A
 1081,Harle-Tsu,Hybrid,4.5,345.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Uplifted,Dizzy,Anxiety,Focused,Headache,Inflammation,Euphoric,Anxious,Depression,8.0,11.0,Earthy,Woody,Pine
 1083,Sweet Baby Jane,Indica,4.3,24.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Anxious,Insomnia,Sleepy,Dry eyes,Depression,Euphoric,Headache,Lack of appetite,Giggly,Paranoid,Pain,20.0,0.0,Sage,Citrus,Sweet
 1087,Merlot OG,Indica,4.8,17.0,Myrcene,Relaxed,Dizzy,Stress,Euphoric,Dry mouth,Headaches,Happy,Dry eyes,Insomnia,Uplifted,N/A,Anxiety,Sleepy,N/A,Depression,21.0,9.0,Earthy,Butter,Woody
@@ -443,9 +443,9 @@
 1177,Critical Plus 2.0,Indica,4.3,24.0,Myrcene,Relaxed,Dry mouth,Fatigue,Happy,Dry eyes,Stress,Euphoric,Paranoid,Depression,Creative,Anxious,Pain,Uplifted,N/A,Insomnia,19.0,0.0,Flowery,Lemon,Spicy/Herbal
 1178,Logic Diesel,Hybrid,4.8,8.0,Myrcene,Uplifted,Anxious,Fatigue,Talkative,Dizzy,Depression,Energetic,Dry eyes,Pain,Happy,Dry mouth,Stress,Focused,N/A,ADD,17.0,12.0,Diesel,Skunk,Mint
 1179,Tutti Frutti,Hybrid,4.2,97.0,Myrcene,Happy,Dry mouth,Stress,Uplifted,Dry eyes,Anxiety,Euphoric,Anxious,Depression,Relaxed,Dizzy,ADD,Energetic,Headache,Pain,18.0,0.0,Tropical,Mango,Sweet
-1181,Cotton Candy,Hybrid,4.2,877.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Anxiety,Euphoric,Dizzy,Depression,Uplifted,Paranoid,Pain,Creative,Anxious,Insomnia,16.0,0.0,Berry,N/A,N/A
+1181,Cotton Candy,Hybrid,4.2,877.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Anxiety,Euphoric,Dizzy,Depression,Uplifted,Paranoid,Pain,Creative,Anxious,Insomnia,16.0,0.0,Honey,N/A,N/A
 1191,Captain's Cake,Hybrid,4.7,96.0,Caryophyllene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Euphoric,Headache,Pain,Uplifted,N/A,Anxiety,Sleepy,N/A,PTSD,19.0,0.0,Earthy,N/A,N/A
-1193,Safety Meeting,Hybrid,4.8,12.0,Myrcene,Relaxed,Dry eyes,Pain,Uplifted,Dry mouth,Stress,Tingly,Headache,Headaches,Happy,N/A,Depression,Focused,N/A,Inflammation,18.0,0.0,Citrus,N/A,N/A
+1193,Safety Meeting,Hybrid,4.8,12.0,Caryophyllene,Relaxed,Dry eyes,Pain,Uplifted,Dry mouth,Stress,Tingly,Headache,Headaches,Happy,N/A,Depression,Focused,N/A,Inflammation,18.0,0.0,Citrus,N/A,N/A
 1195,Aurora Indica,Indica,4.3,102.0,Myrcene,Relaxed,Dry mouth,Stress,Sleepy,Dry eyes,Pain,Happy,Paranoid,Insomnia,Euphoric,Anxious,Depression,Hungry,Dizzy,Anxiety,15.0,1.0,Earthy,Lemon,Woody
 1198,Cookie Dough,Hybrid,4.5,83.0,Caryophyllene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Depression,Euphoric,Dizzy,Anxiety,Uplifted,Paranoid,Stress,Hungry,Anxious,Lack of appetite,20.0,0.0,Sweet,Pungent,Lemon
 1199,Sweet Cheese,Sativa,4.3,103.0,Myrcene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Depression,Uplifted,Headache,Anxiety,Relaxed,Paranoid,Pain,Creative,Dizzy,Fatigue,21.0,0.0,Sweet,BlueCheese,Cheese
@@ -511,7 +511,7 @@
 1346,Lamb's Bread,Sativa,4.4,833.0,Myrcene,Happy,Dry mouth,Stress,Uplifted,Dry eyes,Anxiety,Euphoric,Anxious,Depression,Energetic,Paranoid,Fatigue,Creative,Dizzy,Pain,17.0,5.0,Earthy,N/A,N/A
 1347,Shaman,Sativa,4.3,40.0,Pinene,Uplifted,Dry eyes,Stress,Focused,Dry mouth,Anxiety,Happy,Dizzy,Depression,Euphoric,Paranoid,Fatigue,Creative,Headache,Pain,15.0,0.0,Sweet,Grape,Flowery
 1350,Sour Bubble,Indica,4.5,48.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Anxiety,Sleepy,Dizzy,Insomnia,Uplifted,Anxious,Stress,Hungry,N/A,Depression,16.0,0.0,Grape,Strawberry,Lemon
-1351,Runtz,Hybrid,4.6,369.0,Caryophyllene,Happy,Dry mouth,Anxiety,Relaxed,Dry eyes,Stress,Euphoric,Dizzy,Depression,Uplifted,Anxious,Pain,Creative,Headache,PTSD,19.0,0.0,Sweet,N/A,N/A
+1351,Runtz,Hybrid,4.6,369.0,Caryophyllene,Happy,Dry mouth,Anxiety,Relaxed,Dry eyes,Stress,Euphoric,Dizzy,Depression,Uplifted,Anxious,Pain,Creative,Headache,PTSD,19.0,0.0,Mint,N/A,N/A
 1354,Double Purple Doja,Indica,4.7,23.0,Myrcene,Relaxed,Dry mouth,Pain,Creative,Anxious,Stress,Hungry,N/A,Insomnia,Happy,N/A,Muscle spasms,Euphoric,N/A,PTSD,17.0,0.0,Earthy,Grape,Pungent
 1357,Kritikal-K,Indica,4.4,7.0,Myrcene,Sleepy,Dry mouth,Stress,Happy,Headache,Depression,Relaxed,Dry eyes,Insomnia,Hungry,N/A,Anxiety,Euphoric,N/A,Cramps,18.0,1.0,Sweet,Woody,Pine
 1361,Green Haze,Sativa,3.7,35.0,Myrcene,Focused,Dry eyes,Stress,Happy,Dry mouth,Pain,Uplifted,Anxious,Depression,Talkative,Headache,Anxiety,Euphoric,Paranoid,Insomnia,17.0,0.0,Woody,Spicy/Herbal,Flowery
@@ -538,7 +538,7 @@
 1421,Mickey Kush,Sativa,4.5,111.0,Caryophyllene,Uplifted,Dry mouth,Depression,Happy,Dry eyes,Stress,Relaxed,Anxious,Anxiety,Euphoric,Paranoid,Pain,Energetic,Dizzy,Fatigue,17.0,8.0,Citrus,Earthy,Orange
 1422,Raspberry Kush,Indica,4.1,370.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Dry eyes,Pain,Happy,Dizzy,Anxiety,Uplifted,Paranoid,Depression,Sleepy,Headache,Insomnia,17.0,0.0,Berry,Tropical,Grapefruit
 1424,Cloud 9,Hybrid,4.3,56.0,Limonene,Happy,Dry eyes,Anxiety,Euphoric,Dry mouth,Pain,Talkative,Paranoid,Stress,Relaxed,Dizzy,Depression,Creative,Headache,Nausea,20.0,12.0,Flowery,Rose,Pine
-1429,Thor's Hammer,Sativa,4.0,23.0,Pinene,Euphoric,Dry mouth,Stress,Energetic,Anxious,Anxiety,Talkative,Dizzy,Depression,Happy,Dry eyes,Fatigue,Creative,Paranoid,Pain,23.0,0.0,Sweet,N/A,N/A
+1429,Thor's Hammer,Sativa,4.0,23.0,Pinene,Euphoric,Dry mouth,Stress,Energetic,Anxious,Anxiety,Talkative,Dizzy,Depression,Happy,Dry eyes,Fatigue,Creative,Paranoid,Pain,23.0,0.0,Citrus,N/A,N/A
 1430,Malakoff,Sativa,4.0,10.0,Myrcene,Talkative,Dry mouth,Stress,Happy,Dry eyes,Depression,Energetic,N/A,Eye pressure,Creative,N/A,Pain,Focused,N/A,Anxiety,18.0,8.0,Sweet,Earthy,Woody
 1432,GRiZ Kush,Hybrid,4.5,45.0,Myrcene,Happy,Dry mouth,Depression,Relaxed,Dry eyes,Anxiety,Creative,Paranoid,Stress,Giggly,Anxious,ADD,Euphoric,Headache,Cramps,20.0,8.0,Earthy,Skunk,Flowery
 1433,God's Gift,Indica,4.4,1296.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Pain,Sleepy,Paranoid,Insomnia,Uplifted,Headache,Depression,17.0,7.0,Earthy,N/A,N/A
@@ -634,7 +634,7 @@
 1651,Memory Loss,Sativa,4.6,79.0,Terpinolene,Uplifted,Dry mouth,Stress,Happy,Anxious,Pain,Euphoric,Dry eyes,Depression,Relaxed,Headache,Anxiety,Creative,Dizzy,Fatigue,21.0,0.0,Earthy,Citrus,Woody
 1655,Mango Sapphire,Hybrid,4.7,26.0,Myrcene,Relaxed,Dry mouth,Anxiety,Happy,Dry eyes,Stress,Uplifted,N/A,Depression,Euphoric,N/A,Insomnia,Sleepy,N/A,Cramps,20.0,0.0,Earthy,N/A,N/A
 1657,Strawberry Lemonade,Sativa,4.3,223.0,Myrcene,Happy,Dry mouth,Stress,Uplifted,Dry eyes,Depression,Relaxed,Anxious,Anxiety,Energetic,Paranoid,Pain,Euphoric,Headache,Fatigue,21.0,0.0,Lemon,Strawberry,Sweet
-1658,Wonka Bars,Hybrid,4.6,36.0,Myrcene,Happy,Dry mouth,Anxiety,Energetic,Dry eyes,Depression,Uplifted,Anxious,Stress,Euphoric,Dizzy,Fatigue,Giggly,Headache,Lack of appetite,22.0,0.0,Citrus,N/A,N/A
+1658,Wonka Bars,Hybrid,4.6,36.0,Myrcene,Happy,Dry mouth,Anxiety,Energetic,Dry eyes,Depression,Uplifted,Anxious,Stress,Euphoric,Dizzy,Fatigue,Giggly,Headache,Lack of appetite,22.0,0.0,Earthy,N/A,N/A
 1659,Ringo's Gift,Hybrid,4.6,131.0,Myrcene,Relaxed,Dry mouth,Pain,Uplifted,Dry eyes,Stress,Happy,Headache,Anxiety,Focused,Anxious,Inflammation,Creative,N/A,Depression,3.0,12.0,Earthy,N/A,N/A
 1663,Jungle Cake,Hybrid,4.6,65.0,Caryophyllene,Happy,Dry mouth,Pain,Uplifted,Dizzy,Stress,Talkative,Dry eyes,Anxiety,Relaxed,Anxious,Depression,Euphoric,Paranoid,Arthritis,21.0,0.0,Sweet,N/A,N/A
 1664,Jack Skellington,Sativa,4.5,104.0,Myrcene,Creative,Dry eyes,Stress,Happy,Dry mouth,Depression,Euphoric,Dizzy,Anxiety,Uplifted,Anxious,Pain,Energetic,Paranoid,Fatigue,16.0,8.0,Earthy,Diesel,Citrus
@@ -666,7 +666,7 @@
 1747,Big White,Indica,4.2,25.0,Myrcene,Relaxed,Dry eyes,Pain,Uplifted,Dry mouth,Stress,Sleepy,Anxious,Insomnia,Focused,Headache,Lack of appetite,Hungry,Paranoid,Migraines,24.0,11.0,Diesel,Flowery,Sweet
 1749,Hawaiian,Sativa,4.2,164.0,Caryophyllene,Happy,Dry mouth,Stress,Uplifted,Dry eyes,Depression,Relaxed,Paranoid,Pain,Euphoric,Anxious,Anxiety,Creative,Dizzy,Fatigue,19.0,0.0,Tropical,BlueCheese,Citrus
 1752,Grapefruit,Sativa,4.2,574.0,Myrcene,Happy,Dry mouth,Stress,Uplifted,Dry eyes,Depression,Energetic,Dizzy,Anxiety,Euphoric,Paranoid,Pain,Focused,Headache,Fatigue,17.0,0.0,Grapefruit,Citrus,Sweet
-1753,Blue Fire,Hybrid,4.6,9.0,Myrcene,Uplifted,Dry eyes,Stress,Relaxed,Anxious,Anxiety,Energetic,Dry mouth,Depression,Tingly,Dizzy,Fatigue,Giggly,Headache,Pain,16.0,11.0,Blueberry,N/A,N/A
+1753,Blue Fire,Hybrid,4.6,9.0,Myrcene,Uplifted,Dry eyes,Stress,Relaxed,Anxious,Anxiety,Energetic,Dry mouth,Depression,Tingly,Dizzy,Fatigue,Giggly,Headache,Pain,16.0,11.0,Sweet,N/A,N/A
 1754,White Widow,Hybrid,4.3,4198.0,Myrcene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Uplifted,Dizzy,Pain,Relaxed,Paranoid,Depression,Creative,Anxious,Insomnia,17.0,0.0,Earthy,Flowery,Woody
 1756,Pamelina,Indica,4.7,24.0,Caryophyllene,Relaxed,Dizzy,Stress,Happy,Anxious,Anxiety,Euphoric,Dry eyes,Depression,Uplifted,N/A,Insomnia,Sleepy,N/A,Lack of appetite,22.0,0.0,Sweet,Chemical,Lemon
 1758,Don Shula,Hybrid,5.0,8.0,Myrcene,Uplifted,Dry mouth,Depression,Euphoric,Dry eyes,Fatigue,Relaxed,N/A,Stress,Happy,N/A,Headaches,Creative,N/A,Lack of appetite,18.0,8.0,Citrus,Tropical,Diesel
@@ -675,7 +675,7 @@
 1765,Jedi Kush,Indica,4.5,326.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Dry eyes,Pain,Happy,Dizzy,Anxiety,Sleepy,Headache,Depression,Uplifted,Paranoid,Insomnia,18.0,9.0,Earthy,Woody,Pine
 1768,Cheese Quake,Hybrid,4.2,278.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Pain,Euphoric,Dizzy,Anxiety,Uplifted,Headache,Depression,Creative,Paranoid,Insomnia,17.0,7.0,Cheese,Berry,Pungent
 1770,Purple Jack,Hybrid,4.1,46.0,Terpinolene,Uplifted,Dry mouth,Stress,Euphoric,Dry eyes,Depression,Relaxed,Dizzy,Fatigue,Focused,Headache,Pain,Creative,Paranoid,Anxiety,17.0,6.0,Sweet,Earthy,Berry
-1772,Gammaberry,Hybrid,5.0,1.0,Limonene,Relaxed,Dry eyes,Eye pressure,Happy,Dry mouth,Insomnia,Giggly,N/A,Lack of appetite,Focused,N/A,Pain,Euphoric,N/A,Stress,19.0,0.0,Strawberry,N/A,N/A
+1772,Gammaberry,Hybrid,5.0,1.0,Limonene,Relaxed,Dry eyes,Eye pressure,Happy,Dry mouth,Insomnia,Giggly,N/A,Lack of appetite,Focused,N/A,Pain,Euphoric,N/A,Stress,19.0,0.0,Earthy,N/A,N/A
 1776,Bruce Banner #3,Hybrid,4.5,330.0,Caryophyllene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Depression,Uplifted,Paranoid,Anxiety,Relaxed,Dizzy,Pain,Creative,Anxious,Fatigue,20.0,0.0,Sweet,Pine,Strawberry
 1781,Where's My Bike,Hybrid,4.6,38.0,Caryophyllene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Energetic,Paranoid,Depression,Uplifted,Anxious,Fibromyalgia,Relaxed,Dizzy,PMS,20.0,1.0,Earthy,N/A,N/A
 1783,Crazy Miss Hyde,Hybrid,4.6,24.0,Caryophyllene,Uplifted,Dry mouth,Pain,Euphoric,Anxious,Depression,Happy,Dry eyes,Inflammation,Relaxed,N/A,Nausea,Energetic,N/A,ADD,17.0,1.0,Sweet,Earthy,Citrus
@@ -721,7 +721,7 @@
 1868,Snow White,Hybrid,4.3,162.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Euphoric,Dizzy,Anxiety,Uplifted,Headache,Depression,Hungry,Anxious,Nausea,17.0,8.0,Earthy,Spicy/Herbal,Pine
 1874,Alien OG,Hybrid,4.4,1068.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Happy,Dizzy,Pain,Uplifted,Paranoid,Depression,Creative,Headache,Insomnia,18.0,0.0,Earthy,Pine,Lemon
 1875,Nordle,Indica,4.0,79.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Anxious,Pain,Uplifted,Dizzy,Anxiety,Sleepy,Dry eyes,Depression,Focused,Paranoid,Inflammation,6.0,10.0,Earthy,Pine,Sweet
-1879,Three Blue Kings,Hybrid,4.5,6.0,Caryophyllene,Relaxed,Dry eyes,Depression,Sleepy,Anxious,Insomnia,Tingly,Dry mouth,Anxiety,Giggly,Headache,Lack of appetite,Creative,N/A,Stress,20.0,11.0,Blueberry,N/A,N/A
+1879,Three Blue Kings,Hybrid,4.5,6.0,Caryophyllene,Relaxed,Dry eyes,Depression,Sleepy,Anxious,Insomnia,Tingly,Dry mouth,Anxiety,Giggly,Headache,Lack of appetite,Creative,N/A,Stress,20.0,11.0,Sweet,N/A,N/A
 1884,Ash,Hybrid,4.5,15.0,Caryophyllene,Relaxed,Dry mouth,Depression,Happy,Dry eyes,Pain,Euphoric,Anxious,Stress,Uplifted,Dizzy,Anxiety,Sleepy,Headache,Eye pressure,19.0,13.0,Pungent,Skunk,Spicy/Herbal
 1888,Purple Star,Indica,4.3,35.0,Myrcene,Relaxed,Dry mouth,Pain,Sleepy,Dry eyes,Insomnia,Euphoric,Anxious,Depression,Hungry,Dizzy,Stress,Tingly,N/A,Muscle spasms,18.0,0.0,Berry,Grape,Earthy
 1889,Pineapple,Hybrid,4.2,526.0,Myrcene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Uplifted,Dizzy,Depression,Relaxed,Paranoid,Pain,Energetic,Headache,Insomnia,17.0,0.0,Pineapple,Tropical,Citrus
@@ -793,7 +793,7 @@
 2056,American Dream,Hybrid,4.6,19.0,Myrcene,Euphoric,Dry mouth,Stress,Relaxed,Anxious,Pain,Creative,Dizzy,Depression,Tingly,N/A,Lack of appetite,Focused,N/A,Anxiety,17.0,11.0,Earthy,Pungent,Woody
 2057,Larry Bird,Hybrid,4.7,45.0,Caryophyllene,Relaxed,Dry mouth,Anxiety,Uplifted,Anxious,Depression,Happy,Dry eyes,Inflammation,Euphoric,Dizzy,Muscle spasms,Energetic,Headache,Pain,18.0,1.0,Sweet,N/A,N/A
 2058,Kush-N-Cheese,Hybrid,4.2,12.0,Caryophyllene,Uplifted,Dry mouth,Depression,Happy,Dizzy,Pain,Sleepy,N/A,Stress,Relaxed,N/A,Fatigue,Hungry,N/A,Lack of appetite,18.0,0.0,Sweet,Lemon,Apple
-2060,Sasquatch Sap,Hybrid,4.6,12.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Anxious,Anxiety,Uplifted,Dry eyes,Depression,Happy,N/A,Eye pressure,Focused,N/A,Headaches,19.0,0.0,Mint,Pine,Diesel
+2060,Sasquatch Sap,Hybrid,4.6,12.0,Caryophyllene,Relaxed,Dry mouth,Stress,Euphoric,Anxious,Anxiety,Uplifted,Dry eyes,Depression,Happy,N/A,Eye pressure,Focused,N/A,Headaches,19.0,0.0,Mint,Pine,Diesel
 2062,Afgooey,Indica,4.1,371.0,Myrcene,Euphoric,Dry mouth,Stress,Relaxed,Dry eyes,Pain,Happy,Paranoid,Insomnia,Sleepy,Dizzy,Anxiety,Uplifted,Headache,Depression,16.0,4.0,Earthy,Pine,Pungent
 2064,Fucking Incredible,Indica,4.2,239.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Euphoric,Dizzy,Anxiety,Uplifted,Paranoid,Insomnia,Sleepy,Anxious,Depression,16.0,0.0,Sweet,Earthy,Pine
 2065,Black Lime,Indica,4.5,141.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Dry eyes,Depression,Happy,Headache,Anxiety,Uplifted,Anxious,Pain,Sleepy,Paranoid,Insomnia,16.0,1.0,Earthy,N/A,N/A
@@ -857,7 +857,7 @@
 2224,Super Cheese,Indica,4.3,39.0,Myrcene,Euphoric,Dry mouth,Anxiety,Relaxed,Dizzy,Insomnia,Hungry,Anxious,Pain,Uplifted,Paranoid,Headaches,Happy,N/A,Muscle spasms,14.0,1.0,Lime,Cheese,Earthy
 2225,Sour Poison,Sativa,4.6,22.0,Myrcene,Relaxed,Dry mouth,Depression,Uplifted,Anxious,Stress,Happy,Dry eyes,Lack of appetite,Energetic,N/A,Pain,Sleepy,N/A,Insomnia,14.0,6.0,Citrus,Pine,Diesel
 2231,Buffalo Bill,Sativa,4.2,17.0,Myrcene,Euphoric,Dry mouth,Depression,Relaxed,Anxious,Fatigue,Happy,Dizzy,Headaches,Uplifted,Dry eyes,Pain,Tingly,Headache,Stress,16.0,0.0,Earthy,Woody,Pine
-2233,Han Solo Burger,Hybrid,4.9,20.0,Pinene,Relaxed,Dry eyes,Pain,Euphoric,Dry mouth,Anxiety,Sleepy,N/A,Insomnia,Happy,N/A,PTSD,Hungry,N/A,Cramps,27.0,0.0,Citrus,N/A,N/A
+2233,Han Solo Burger,Hybrid,4.9,20.0,Pinene,Relaxed,Dry eyes,Pain,Euphoric,Dry mouth,Anxiety,Sleepy,N/A,Insomnia,Happy,N/A,PTSD,Hungry,N/A,Cramps,27.0,0.0,Earthy,N/A,N/A
 2236,Candy Apple,Hybrid,4.3,13.0,Pinene,Uplifted,Dizzy,ADD,Focused,Dry mouth,Depression,Energetic,Anxious,Pain,Tingly,N/A,Anxiety,Talkative,N/A,PTSD,19.0,1.0,Blueberry,N/A,N/A
 2239,Purple Alien OG,Hybrid,4.5,130.0,Limonene,Relaxed,Dry mouth,Pain,Euphoric,Dry eyes,Stress,Happy,Dizzy,Anxiety,Uplifted,Paranoid,Insomnia,Sleepy,Anxious,Depression,21.0,0.0,Earthy,Flowery,Sweet
 2242,Nurse Jackie,Sativa,4.2,43.0,Myrcene,Happy,Dizzy,Stress,Uplifted,Dry mouth,Headaches,Relaxed,Headache,Pain,Focused,N/A,Inflammation,Energetic,N/A,Muscle spasms,16.0,8.0,Earthy,Lemon,Diesel
@@ -870,7 +870,7 @@
 2253,Astral Works,Hybrid,4.8,6.0,Terpinolene,Relaxed,Anxious,Pain,Uplifted,Dry eyes,Anxiety,Happy,N/A,Stress,Focused,N/A,Depression,Euphoric,N/A,Inflammation,5.0,8.0,Earthy,N/A,N/A
 2255,Alien Technology,Indica,4.5,15.0,Myrcene,Happy,Dry mouth,ADD,Euphoric,Dry eyes,Anxiety,Uplifted,Anxious,Depression,Relaxed,Headache,Fatigue,Talkative,N/A,Insomnia,16.0,4.0,Earthy,Spicy/Herbal,Woody
 2260,Ape Diesel,Indica,4.2,12.0,Myrcene,Relaxed,Dry eyes,Pain,Happy,Dry mouth,Stress,Giggly,N/A,Depression,Energetic,N/A,Headaches,Sleepy,N/A,Lack of appetite,20.0,6.0,Diesel,N/A,N/A
-2262,Purple Majik,Hybrid,3.5,10.0,Myrcene,Relaxed,Anxious,Muscle spasms,Sleepy,Paranoid,Anxiety,Uplifted,N/A,Inflammation,Tingly,N/A,Nausea,Happy,N/A,Pain,18.0,0.0,Spicy/Herbal,N/A,N/A
+2262,Purple Majik,Hybrid,3.5,10.0,Myrcene,Relaxed,Anxious,Muscle spasms,Sleepy,Paranoid,Anxiety,Uplifted,N/A,Inflammation,Tingly,N/A,Nausea,Happy,N/A,Pain,18.0,0.0,Grapefruit,N/A,N/A
 2266,Belladonna,Hybrid,4.0,29.0,Myrcene,Euphoric,Dry mouth,Migraines,Happy,Paranoid,Stress,Uplifted,Anxious,Pain,Relaxed,Dizzy,Depression,Creative,Dry eyes,Insomnia,18.0,2.0,Earthy,Nutty,Tar
 2267,Blueberry,Indica,4.3,2248.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Euphoric,Dizzy,Anxiety,Sleepy,Paranoid,Insomnia,Uplifted,Headache,Depression,17.0,4.0,Blueberry,Berry,Sweet
 2268,Chocolate Kush,Indica,4.5,81.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Pain,Uplifted,Anxious,Insomnia,Sleepy,Headache,Depression,19.0,0.0,Earthy,Woody,Pungent
@@ -993,7 +993,7 @@
 2580,Raskal OG,Hybrid,4.2,135.0,Limonene,Happy,Dry mouth,Pain,Relaxed,Dry eyes,Stress,Uplifted,Paranoid,Depression,Euphoric,Dizzy,Anxiety,Focused,Headache,Nausea,20.0,0.0,Sweet,Pine,Earthy
 2581,White Lemon,Hybrid,4.3,4.0,Terpinolene,Uplifted,Anxious,Depression,Relaxed,Dry eyes,Pain,Happy,Dry mouth,Stress,Euphoric,N/A,Fatigue,Energetic,N/A,Lack of appetite,22.0,0.0,Lemon,N/A,N/A
 2582,Double Tangie Banana,Hybrid,4.5,118.0,Myrcene,Happy,Dry eyes,Stress,Uplifted,Dry mouth,Depression,Relaxed,Headache,Anxiety,Euphoric,Paranoid,Pain,Talkative,Anxious,Fatigue,17.0,0.0,Citrus,Orange,Sweet
-2584,Frank's Gift,Hybrid,4.0,44.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Uplifted,Headache,Anxiety,Giggly,Dizzy,Depression,Focused,Anxious,Inflammation,4.0,11.0,Skunk,N/A,N/A
+2584,Frank's Gift,Hybrid,4.0,44.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Uplifted,Headache,Anxiety,Giggly,Dizzy,Depression,Focused,Anxious,Inflammation,4.0,11.0,Sweet,N/A,N/A
 2586,Dinachem,Hybrid,4.5,11.0,Myrcene,Relaxed,Dry eyes,Depression,Happy,Dry mouth,Stress,Uplifted,N/A,Lack of appetite,Talkative,N/A,Fatigue,Euphoric,N/A,Spasticity,20.0,0.0,Citrus,Sweet,Spicy/Herbal
 2587,Tangier Chilly,Hybrid,5.0,2.0,Myrcene,Talkative,Dry eyes,Depression,Creative,Dry mouth,Inflammation,Uplifted,N/A,Lack of appetite,Sleepy,N/A,ADD,Relaxed,N/A,N/A,17.0,0.0,Citrus,Orange,Pine
 2588,Sirius Black,Indica,4.6,71.0,Myrcene,Relaxed,Dry mouth,Depression,Happy,Dry eyes,Stress,Euphoric,Dizzy,Anxiety,Uplifted,Anxious,Pain,Giggly,N/A,PTSD,15.0,0.0,Berry,Grape,Sweet
@@ -1001,7 +1001,7 @@
 2606,Haze,Sativa,4.1,451.0,Myrcene,Happy,Dry mouth,Stress,Uplifted,Dry eyes,Anxiety,Euphoric,Paranoid,Depression,Energetic,Dizzy,Pain,Creative,Headache,Fatigue,16.0,9.0,Earthy,Pungent,Woody
 2610,Candy Cane,Indica,4.2,53.0,Myrcene,Relaxed,Dry mouth,Insomnia,Happy,Dizzy,Stress,Sleepy,Paranoid,Anxiety,Euphoric,Dry eyes,Depression,Creative,Anxious,Lack of appetite,12.0,8.0,Sweet,Earthy,Pine
 2612,Kali Dog,Hybrid,4.7,18.0,Myrcene,Relaxed,Dizzy,Pain,Uplifted,Dry eyes,Stress,Happy,Dry mouth,ADD,Energetic,N/A,Anxiety,Hungry,N/A,Migraines,19.0,6.0,Citrus,Earthy,Lemon
-2614,Ethos Apex,Hybrid,4.5,10.0,Myrcene,Relaxed,Dry eyes,Nausea,Hungry,Dry mouth,Depression,Euphoric,N/A,Anxiety,Tingly,N/A,Bipolar disorder,Sleepy,N/A,N/A,22.0,0.0,Orange,N/A,N/A
+2614,Ethos Apex,Hybrid,4.5,10.0,Caryophyllene,Relaxed,Dry eyes,Nausea,Hungry,Dry mouth,Depression,Euphoric,N/A,Anxiety,Tingly,N/A,Bipolar disorder,Sleepy,N/A,N/A,22.0,0.0,Orange,N/A,N/A
 2616,Honey Lemon Cheese,Hybrid,4.4,5.0,Caryophyllene,Relaxed,Anxious,Stress,Creative,Dry eyes,Depression,Uplifted,Dry mouth,Fatigue,Happy,Headache,ADD,Focused,N/A,Bipolar disorder,20.0,0.0,Spicy/Herbal,Honey,Woody
 2617,Jawa Pie,Indica,4.7,27.0,Caryophyllene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Sleepy,Paranoid,Anxiety,Euphoric,N/A,Insomnia,Hungry,N/A,Cramps,19.0,0.0,Skunk,Earthy,Sweet
 2619,MK Ultra,Indica,4.4,758.0,Myrcene,Relaxed,Dry mouth,Stress,Sleepy,Dry eyes,Pain,Happy,Dizzy,Insomnia,Euphoric,Paranoid,Anxiety,Hungry,Anxious,Depression,19.0,0.0,Earthy,Pine,Pungent
@@ -1011,7 +1011,7 @@
 2626,Jacky Girl,Hybrid,4.6,9.0,Caryophyllene,Energetic,Dry mouth,Depression,Uplifted,Anxious,Fatigue,Happy,Dizzy,Stress,Focused,Headache,Anxiety,Creative,N/A,Eye pressure,19.0,6.0,Citrus,N/A,N/A
 2627,Diesel Dough,Hybrid,4.4,16.0,Myrcene,Happy,Dry mouth,Stress,Uplifted,Paranoid,Depression,Euphoric,Anxious,Fatigue,Energetic,Dry eyes,Headaches,Talkative,N/A,Inflammation,23.0,6.0,Diesel,Sweet,Earthy
 2629,Big Buddha Cheese,Hybrid,4.1,276.0,Myrcene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Uplifted,Dizzy,Pain,Relaxed,Paranoid,Depression,Creative,Headache,Insomnia,19.0,4.0,Cheese,Skunk,Pungent
-2631,Jager,Indica,4.5,340.0,Caryophyllene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Euphoric,Dizzy,Anxiety,Sleepy,Anxious,Depression,Uplifted,Headache,Insomnia,19.0,11.0,Blueberry,N/A,N/A
+2631,Jager,Indica,4.5,340.0,Caryophyllene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Euphoric,Dizzy,Anxiety,Sleepy,Anxious,Depression,Uplifted,Headache,Insomnia,19.0,11.0,Sweet,N/A,N/A
 2633,Abusive OG,Indica,4.5,152.0,Limonene,Relaxed,Dry mouth,Pain,Sleepy,Dry eyes,Stress,Happy,Dizzy,Anxiety,Euphoric,Headache,Insomnia,Uplifted,Paranoid,Depression,16.0,0.0,Earthy,Pungent,Woody
 2638,Madman OG,Hybrid,4.6,57.0,Limonene,Relaxed,Dry eyes,Stress,Euphoric,Dizzy,Depression,Happy,Dry mouth,Anxiety,Uplifted,Anxious,PTSD,Sleepy,Paranoid,Insomnia,19.0,9.0,Earthy,Pine,Coffee
 2641,Goo,Indica,4.3,170.0,Myrcene,Relaxed,Dry mouth,Stress,Sleepy,Dry eyes,Pain,Happy,Paranoid,Insomnia,Euphoric,Dizzy,Lack of appetite,Hungry,Headache,Anxiety,17.0,0.0,Earthy,Blueberry,Berry
@@ -1071,7 +1071,7 @@
 2781,Grape OX,Indica,4.6,35.0,Myrcene,Relaxed,Dry mouth,Stress,Sleepy,Dizzy,Depression,Euphoric,Paranoid,Insomnia,Uplifted,Headache,Pain,Happy,N/A,Anxiety,18.0,0.0,Grape,Pine,Lavender
 2783,Humboldt,Hybrid,4.2,49.0,Myrcene,Euphoric,Dry mouth,Stress,Relaxed,Dry eyes,Pain,Happy,Dizzy,Anxiety,Uplifted,Headache,Depression,Giggly,Paranoid,Headaches,18.0,4.0,Earthy,Woody,Pine
 2784,Blue Hash,Hybrid,4.2,53.0,Myrcene,Relaxed,Dry mouth,Insomnia,Euphoric,Dry eyes,Stress,Happy,Dizzy,Depression,Sleepy,Paranoid,Pain,Uplifted,Headache,Lack of appetite,13.0,1.0,Blueberry,Earthy,Sweet
-2789,Mike Larry,Hybrid,4.7,18.0,Caryophyllene,Relaxed,Dry mouth,Anxiety,Talkative,Dry eyes,Arthritis,Happy,Dizzy,Bipolar disorder,Giggly,N/A,Gastrointestinal disorder,Focused,N/A,Migraines,18.0,0.0,Sweet,N/A,N/A
+2789,Mike Larry,Hybrid,4.7,18.0,Caryophyllene,Relaxed,Dry mouth,Anxiety,Talkative,Dry eyes,Arthritis,Happy,Dizzy,Bipolar disorder,Giggly,N/A,Gastrointestinal disorder,Focused,N/A,Migraines,18.0,0.0,Mint,N/A,N/A
 2790,Damn Sour,Sativa,4.1,8.0,Myrcene,Hungry,Anxious,Depression,Happy,Dizzy,Pain,Euphoric,Dry eyes,Fatigue,Creative,Dry mouth,Headaches,Uplifted,Headache,Lack of appetite,21.0,0.0,Citrus,Woody,Diesel
 2791,Purple Candy,Indica,4.4,271.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Insomnia,Sleepy,Headache,Anxiety,Euphoric,Dizzy,Pain,Uplifted,Anxious,Depression,16.0,0.0,Grape,Sweet,Berry
 2799,Sunny D,Hybrid,4.6,27.0,Myrcene,Happy,Dry mouth,Stress,Uplifted,Anxious,Depression,Relaxed,Dry eyes,Headaches,Focused,N/A,Lack of appetite,Energetic,N/A,Anxiety,19.0,0.0,Citrus,Orange,Sweet
@@ -1083,7 +1083,7 @@
 2808,Flowerbomb Kush,Indica,4.5,55.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Euphoric,Dizzy,Pain,Uplifted,Anxious,Anxiety,Focused,Paranoid,Insomnia,14.0,10.0,Pine,Spicy/Herbal,Skunk
 2810,Blue Steel,Indica,4.3,30.0,Pinene,Relaxed,Dry mouth,Pain,Happy,Dizzy,Stress,Uplifted,Dry eyes,Anxiety,Sleepy,N/A,Depression,Euphoric,N/A,Insomnia,19.0,0.0,Blueberry,Berry,Sweet
 2811,Fallen Angel,Indica,5.0,5.0,N/A,Relaxed,Dry eyes,Pain,Uplifted,Dry mouth,Depression,Hungry,Anxious,Muscle spasms,Happy,Paranoid,Migraines,Talkative,N/A,Headaches,22.0,0.0,Sage,Sweet,Flowery
-2817,White Runtz,Hybrid,4.7,98.0,Limonene,Relaxed,Dry eyes,Anxiety,Happy,Dry mouth,Stress,Euphoric,Anxious,Depression,Uplifted,Dizzy,Pain,Tingly,N/A,PTSD,17.0,0.0,Sweet,N/A,N/A
+2817,White Runtz,Hybrid,4.7,98.0,Limonene,Relaxed,Dry eyes,Anxiety,Happy,Dry mouth,Stress,Euphoric,Anxious,Depression,Uplifted,Dizzy,Pain,Tingly,N/A,PTSD,17.0,0.0,Mint,N/A,N/A
 2818,Atomical Haze,Sativa,4.4,25.0,Myrcene,Happy,Dry eyes,Depression,Relaxed,Dry mouth,Pain,Talkative,Dizzy,Stress,Euphoric,N/A,Anxiety,Energetic,N/A,Eye pressure,18.0,0.0,Earthy,Woody,Chemical
 2819,Schrom,Sativa,4.5,30.0,Terpinolene,Uplifted,Dry mouth,Depression,Relaxed,Headache,Stress,Happy,Dry eyes,Pain,Energetic,N/A,Muscle spasms,Creative,N/A,Fatigue,18.0,0.0,Lemon,Citrus,Lime
 2820,Animal Face,Hybrid,4.6,23.0,Caryophyllene,Relaxed,Anxious,Inflammation,Uplifted,Dizzy,Lack of appetite,Happy,Dry eyes,Nausea,Euphoric,Dry mouth,Pain,Hungry,Headache,Anxiety,20.0,0.0,Earthy,N/A,N/A
@@ -1103,7 +1103,7 @@
 2856,The Ooze,Indica,4.0,6.0,Myrcene,Uplifted,Dry mouth,Eye pressure,Tingly,Dizzy,Fatigue,Relaxed,Dry eyes,Headaches,Happy,Headache,Lack of appetite,Focused,N/A,Nausea,14.0,10.0,Spicy/Herbal,Sweet,Apple
 2861,White Dream,Hybrid,4.7,33.0,Myrcene,Uplifted,Dry mouth,Depression,Happy,Anxious,Stress,Relaxed,Dry eyes,Pain,Energetic,Headache,Anxiety,Focused,Dizzy,Headaches,17.0,11.0,Sweet,Citrus,Flowery
 2866,Lucky Charms,Hybrid,4.5,200.0,Caryophyllene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Anxiety,Uplifted,Anxious,Depression,Euphoric,Dizzy,Pain,Creative,Paranoid,PTSD,23.0,0.0,Citrus,Berry,Flowery
-2870,Straight A's Haze,Sativa,5.0,3.0,Myrcene,Happy,Dry mouth,Stress,Euphoric,Headache,Cramps,Uplifted,Paranoid,Depression,Talkative,N/A,Headaches,Relaxed,N/A,Insomnia,18.0,0.0,Earthy,N/A,N/A
+2870,Straight A's Haze,Sativa,5.0,3.0,Caryophyllene,Happy,Dry mouth,Stress,Euphoric,Headache,Cramps,Uplifted,Paranoid,Depression,Talkative,N/A,Headaches,Relaxed,N/A,Insomnia,18.0,0.0,Earthy,N/A,N/A
 2873,Recon,Indica,4.3,125.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Dry eyes,Pain,Happy,Dizzy,Insomnia,Sleepy,Paranoid,Anxiety,Hungry,Anxious,Nausea,19.0,9.0,Sweet,Nutty,Flowery
 2875,Raspberry Diesel,Hybrid,4.5,4.0,Myrcene,Happy,Dry eyes,Headaches,Creative,Anxious,Stress,Uplifted,Dizzy,Depression,Talkative,Dry mouth,Eye pressure,Relaxed,N/A,Inflammation,21.0,6.0,Diesel,N/A,N/A
 2876,Hawaiian Sativa,Sativa,4.1,34.0,Myrcene,Uplifted,Dry mouth,Stress,Euphoric,Dizzy,Depression,Happy,Dry eyes,Anxiety,Creative,Headache,Insomnia,Energetic,Anxious,Pain,17.0,11.0,Citrus,Sweet,Tropical
@@ -1169,7 +1169,7 @@
 3032,Aberdeen,Hybrid,4.4,8.0,Myrcene,Uplifted,Dry eyes,PTSD,Giggly,Dry mouth,Cramps,Talkative,N/A,Depression,Sleepy,N/A,Fatigue,Happy,N/A,Headaches,16.0,8.0,Menthol,BlueCheese,Chemical
 3039,Gas Mask,Indica,4.6,33.0,Myrcene,Relaxed,Dry mouth,Anxiety,Sleepy,Dizzy,Insomnia,Euphoric,Dry eyes,Pain,Tingly,Paranoid,PTSD,Happy,N/A,Depression,17.0,14.0,Earthy,Spicy/Herbal,Pepper
 3040,Alien Reunion,Hybrid,4.9,11.0,Myrcene,Relaxed,Dry mouth,Headaches,Euphoric,Dizzy,Inflammation,Uplifted,Dry eyes,Lack of appetite,Happy,Headache,Muscle spasms,Energetic,Paranoid,Pain,19.0,0.0,Pungent,Skunk,Cheese
-3043,Double Mint,Indica,4.4,8.0,Myrcene,Relaxed,Dry eyes,Stress,Uplifted,Dry mouth,Fatigue,Hungry,N/A,Headaches,Euphoric,N/A,Insomnia,Sleepy,N/A,Lack of appetite,22.0,0.0,Lemon,Mint,Citrus
+3043,Double Mint,Indica,4.4,8.0,Limonene,Relaxed,Dry eyes,Stress,Uplifted,Dry mouth,Fatigue,Hungry,N/A,Headaches,Euphoric,N/A,Insomnia,Sleepy,N/A,Lack of appetite,22.0,0.0,Lemon,Mint,Citrus
 3044,Spiked Punch,Hybrid,4.5,14.0,Myrcene,Euphoric,Dry mouth,Depression,Relaxed,Dry eyes,Insomnia,Happy,N/A,Pain,Uplifted,N/A,Stress,Sleepy,N/A,N/A,19.0,0.0,Grape,N/A,N/A
 3049,Grapefruit Kush,Hybrid,4.3,194.0,N/A,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Relaxed,Paranoid,Depression,Uplifted,Dizzy,Pain,Creative,Anxious,Insomnia,18.0,0.0,Grapefruit,Citrus,Pine
 3053,Green Love Potion,Indica,4.4,42.0,Pinene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Uplifted,Headache,Anxiety,Euphoric,N/A,Depression,Aroused,N/A,Muscle spasms,17.0,2.0,Sweet,Flowery,Lavender
@@ -1185,7 +1185,7 @@
 3082,Gorilla Sap,Hybrid,4.8,4.0,Myrcene,Uplifted,Dry eyes,Stress,Talkative,Dry mouth,Depression,Energetic,Anxious,Eye pressure,Happy,N/A,Fatigue,Focused,N/A,Headaches,19.0,0.0,Citrus,N/A,N/A
 3084,Mountain Girl x Grape Ape,Hybrid,4.0,1.0,Myrcene,Uplifted,Anxious,Depression,Tingly,Dizzy,Fatigue,Relaxed,Dry mouth,Headaches,Hungry,Paranoid,Inflammation,Energetic,N/A,Insomnia,18.0,0.0,Grape,N/A,N/A
 3086,Cookies Kush,Indica,4.5,314.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Sleepy,Dizzy,Pain,Euphoric,Paranoid,Insomnia,Hungry,Anxious,Depression,16.0,0.0,Sweet,Pungent,Earthy
-3087,Dream Girl,Hybrid,4.4,8.0,Myrcene,Happy,Dry mouth,Depression,Talkative,Anxious,Headaches,Energetic,Dizzy,Stress,Uplifted,Dry eyes,N/A,Tingly,Paranoid,N/A,13.0,11.0,Blueberry,N/A,N/A
+3087,Dream Girl,Hybrid,4.4,8.0,Myrcene,Happy,Dry mouth,Depression,Talkative,Anxious,Headaches,Energetic,Dizzy,Stress,Uplifted,Dry eyes,N/A,Tingly,Paranoid,N/A,13.0,11.0,Sweet,N/A,N/A
 3092,Medusa,Hybrid,3.9,66.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Insomnia,Creative,Anxious,Pain,Uplifted,Headache,Depression,15.0,0.0,Sweet,Pungent,Earthy
 3093,Charlie Sheen,Hybrid,4.5,168.0,Limonene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Euphoric,Dizzy,Depression,Uplifted,Anxious,Anxiety,Sleepy,Paranoid,Headaches,17.0,11.0,Lemon,Sweet,Earthy
 3096,Scooby Snacks,Hybrid,4.6,208.0,Limonene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Euphoric,Headache,Pain,Uplifted,Dizzy,Anxiety,Sleepy,N/A,Insomnia,23.0,0.0,Earthy,Sweet,Pine
@@ -1205,7 +1205,7 @@
 3135,Full Moon,Sativa,4.8,31.0,Myrcene,Uplifted,Dry eyes,Depression,Energetic,Dry mouth,Stress,Happy,Anxious,Fatigue,Euphoric,Dizzy,ADD,Creative,Paranoid,Anxiety,13.0,9.0,Earthy,Citrus,Tropical
 3141,Big Kush,Hybrid,4.4,15.0,Limonene,Uplifted,Anxious,Nausea,Relaxed,Dizzy,Pain,Euphoric,Dry eyes,Stress,Happy,Dry mouth,Depression,Energetic,N/A,Insomnia,20.0,0.0,Pine,Citrus,Lemon
 3143,Kush Cleaner,Hybrid,4.6,20.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Dry eyes,Depression,Happy,Headache,Headaches,Sleepy,Paranoid,Insomnia,Hungry,N/A,Lack of appetite,19.0,0.0,Woody,Pine,Earthy
-3144,Cherry Thunder Fuck,Hybrid,4.8,37.0,Myrcene,Happy,Dry mouth,Anxiety,Euphoric,Dry eyes,Stress,Uplifted,Paranoid,Depression,Relaxed,N/A,Pain,Focused,N/A,PTSD,18.0,0.0,Pungent,Sweet,Berry
+3144,Cherry Thunder Fuck,Hybrid,4.8,37.0,Pinene,Happy,Dry mouth,Anxiety,Euphoric,Dry eyes,Stress,Uplifted,Paranoid,Depression,Relaxed,N/A,Pain,Focused,N/A,PTSD,18.0,0.0,Pungent,Sweet,Berry
 3145,Blue Kiss,Hybrid,4.8,9.0,Limonene,Relaxed,Dry eyes,Headaches,Talkative,Dry mouth,Lack of appetite,Hungry,Dizzy,Nausea,Focused,N/A,Stress,Euphoric,N/A,Spinal cord injury,21.0,0.0,Sweet,Berry,Blueberry
 3151,Rocklock,Indica,4.4,59.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Creative,Anxious,Depression,Euphoric,Dizzy,Insomnia,Uplifted,Headache,Muscle spasms,19.0,0.0,Earthy,Woody,Sweet
 3152,White Empress,Indica,4.4,7.0,Myrcene,Euphoric,Dry mouth,Depression,Uplifted,Anxious,Fatigue,Happy,Dry eyes,Stress,Tingly,N/A,ADD,Relaxed,N/A,Anxiety,18.0,8.0,Sweet,Citrus,Earthy
@@ -1219,7 +1219,7 @@
 3178,Flaming Cookies,Indica,4.3,23.0,Limonene,Relaxed,Dizzy,Pain,Happy,Dry eyes,Stress,Euphoric,Dry mouth,Anxiety,Sleepy,Paranoid,Insomnia,Tingly,Anxious,Depression,15.0,0.0,Spicy/Herbal,Diesel,Lemon
 3180,Space Candy,Hybrid,4.6,110.0,Caryophyllene,Happy,Dry mouth,Stress,Relaxed,Anxious,Depression,Uplifted,Dry eyes,Anxiety,Euphoric,Dizzy,Pain,Creative,Paranoid,Fatigue,18.0,0.0,Sweet,Earthy,Berry
 3182,Treasure Island,Hybrid,4.7,26.0,Myrcene,Relaxed,Dry mouth,Stress,Focused,Anxious,Anxiety,Uplifted,Dry eyes,Pain,Happy,N/A,Depression,Tingly,N/A,Inflammation,6.0,10.0,Spicy/Herbal,Citrus,Earthy
-3184,Jack's Dream,Hybrid,4.3,23.0,Myrcene,Focused,Dry mouth,Depression,Uplifted,Paranoid,Fatigue,Energetic,Anxious,Pain,Creative,Dizzy,Stress,Talkative,Dry eyes,Anxiety,18.0,11.0,Blueberry,N/A,N/A
+3184,Jack's Dream,Hybrid,4.3,23.0,Myrcene,Focused,Dry mouth,Depression,Uplifted,Paranoid,Fatigue,Energetic,Anxious,Pain,Creative,Dizzy,Stress,Talkative,Dry eyes,Anxiety,18.0,11.0,Sweet,N/A,N/A
 3186,Hashbar OG,Indica,4.5,22.0,Limonene,Relaxed,Dry mouth,Lack of appetite,Happy,Dry eyes,Stress,Euphoric,N/A,Anxiety,Sleepy,N/A,Insomnia,Uplifted,N/A,Depression,20.0,0.0,Sweet,Earthy,Skunk
 3189,Flo OG,Indica,4.4,68.0,Limonene,Relaxed,Dry eyes,Stress,Happy,Dry mouth,Pain,Euphoric,Dizzy,Depression,Sleepy,Anxious,Anxiety,Uplifted,Paranoid,Headaches,18.0,0.0,Earthy,Sweet,Pungent
 3191,Blush,Hybrid,5.0,3.0,Myrcene,Talkative,Anxious,Depression,Relaxed,Dry eyes,Eye pressure,Happy,Dry mouth,Fatigue,Creative,Paranoid,Lack of appetite,Uplifted,N/A,Muscle spasms,13.0,0.0,Pepper,Earthy,Honey
@@ -1232,7 +1232,7 @@
 3203,Green Poison,Indica,4.2,149.0,N/A,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Insomnia,Sleepy,Dizzy,Pain,Euphoric,Headache,Anxiety,Hungry,Anxious,Depression,13.0,0.0,Earthy,Woody,Citrus
 3205,Blue Cookies,Hybrid,4.7,636.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Depression,Uplifted,Paranoid,Pain,Sleepy,Anxious,Insomnia,19.0,1.0,Blueberry,Berry,Sweet
 3206,Acid,Hybrid,4.5,39.0,Myrcene,Euphoric,Dry eyes,Stress,Happy,Dry mouth,Depression,Creative,Anxious,Nausea,Energetic,Dizzy,Anxiety,Uplifted,Headache,PTSD,16.0,12.0,Diesel,Earthy,Citrus
-3208,Biscotti,Hybrid,4.6,147.0,Caryophyllene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Anxious,Insomnia,Uplifted,Dizzy,Pain,Tingly,Paranoid,Depression,21.0,0.0,Sweet,N/A,N/A
+3208,Biscotti,Hybrid,4.6,147.0,Caryophyllene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Anxious,Insomnia,Uplifted,Dizzy,Pain,Tingly,Paranoid,Depression,21.0,0.0,Mint,N/A,N/A
 3211,Red Diesel,Hybrid,4.2,75.0,Myrcene,Euphoric,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Relaxed,Anxious,Pain,Uplifted,Paranoid,Depression,Hungry,Dizzy,Lack of appetite,15.0,12.0,Diesel,Orange,Berry
 3212,Oregon Pineapple,Hybrid,4.3,43.0,Caryophyllene,Happy,Dry mouth,Depression,Uplifted,Dry eyes,Stress,Relaxed,N/A,Anxiety,Euphoric,N/A,Arthritis,Energetic,N/A,Pain,23.0,10.0,Pineapple,Earthy,Sweet
 3214,Bubblegun,Hybrid,3.5,44.0,Limonene,Happy,Dry mouth,Stress,Hungry,Dry eyes,Anxiety,Euphoric,Headache,Insomnia,Uplifted,Dizzy,Pain,Relaxed,Paranoid,Nausea,16.0,1.0,Sweet,Pepper,Mint
@@ -1424,7 +1424,7 @@
 3677,Pineapple Haze,Sativa,4.3,90.0,Myrcene,Happy,Dry mouth,Stress,Uplifted,Dizzy,Depression,Relaxed,Dry eyes,Lack of appetite,Energetic,Headache,Pain,Euphoric,Paranoid,Headaches,16.0,10.0,Pineapple,Sweet,Pungent
 3678,Purple Happy Rancher,Indica,4.3,55.0,Myrcene,Relaxed,Dry mouth,Insomnia,Happy,Dry eyes,Stress,Euphoric,Anxious,Anxiety,Sleepy,N/A,Pain,Uplifted,N/A,Depression,16.0,0.0,Grape,Tropical,Flowery
 3679,Crumbled Lime,Sativa,4.9,12.0,Limonene,Happy,Dry mouth,Depression,Relaxed,Dizzy,Headaches,Euphoric,Headache,Stress,Uplifted,N/A,Fatigue,Focused,N/A,Lack of appetite,18.0,1.0,Citrus,N/A,N/A
-3682,Snoop's Dream,Hybrid,4.5,375.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Euphoric,Paranoid,Anxiety,Uplifted,Anxious,Pain,Creative,Dizzy,Insomnia,19.0,11.0,Blueberry,N/A,N/A
+3682,Snoop's Dream,Hybrid,4.5,375.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Euphoric,Paranoid,Anxiety,Uplifted,Anxious,Pain,Creative,Dizzy,Insomnia,19.0,11.0,Sweet,N/A,N/A
 3683,Murkle,Indica,3.5,2.0,Myrcene,Talkative,Dry mouth,Depression,Sleepy,Dizzy,Inflammation,Relaxed,Dry eyes,Insomnia,Hungry,Paranoid,Pain,Happy,N/A,Stress,13.0,1.0,Sweet,Earthy,Pungent
 3684,Sour Strawberry Diesel,Hybrid,4.5,61.0,Limonene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Anxiety,Uplifted,Dizzy,Depression,Euphoric,Anxious,Insomnia,Talkative,Paranoid,ADD,14.0,0.0,Diesel,Strawberry,Sweet
 3685,Elvis,Hybrid,4.6,40.0,Myrcene,Uplifted,Dry mouth,Stress,Relaxed,Anxious,Pain,Happy,Dizzy,Depression,Euphoric,Dry eyes,Insomnia,Talkative,Paranoid,Fatigue,22.0,1.0,Diesel,Rose,Cheese
@@ -1463,7 +1463,7 @@
 3768,Bubblicious,Hybrid,4.3,70.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Euphoric,Dizzy,Pain,Uplifted,Headache,Headaches,Creative,Paranoid,Muscle spasms,16.0,10.0,Berry,Sweet,Earthy
 3772,Ultra Sonja,Hybrid,4.4,27.0,Myrcene,Happy,Dry mouth,Pain,Relaxed,Dry eyes,Stress,Focused,Dizzy,ADD,Euphoric,Headache,Depression,Uplifted,N/A,Insomnia,19.0,0.0,TreeFruit,Earthy,Cheese
 3774,Denver Maple,Indica,4.2,17.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Sleepy,Headache,Pain,Giggly,N/A,Anxiety,Uplifted,N/A,Cramps,16.0,0.0,Earthy,Citrus,Flowery
-3778,Sour Grapes,Hybrid,4.3,384.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Pain,Euphoric,Dizzy,Depression,Uplifted,Anxious,Anxiety,Creative,Headache,Fatigue,16.0,0.0,Sweet,N/A,N/A
+3778,Sour Grapes,Hybrid,4.3,384.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Pain,Euphoric,Dizzy,Depression,Uplifted,Anxious,Anxiety,Creative,Headache,Fatigue,16.0,0.0,Blueberry,N/A,N/A
 3779,Pure Power Plant,Hybrid,4.3,243.0,Myrcene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Energetic,Paranoid,Depression,Uplifted,Dizzy,Pain,Creative,Headache,Insomnia,20.0,1.0,Earthy,Pungent,Apple
 3781,Superglue,Hybrid,4.7,386.0,Caryophyllene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Depression,Uplifted,Anxious,Pain,Focused,Headache,Insomnia,20.0,1.0,Pine,Earthy,Pungent
 3782,Kiwiskunk,Indica,3.9,14.0,Myrcene,Relaxed,Headache,Anxiety,Happy,Dry eyes,Depression,Sleepy,Dry mouth,Insomnia,Hungry,N/A,Lack of appetite,Tingly,N/A,Nausea,17.0,6.0,Sweet,Skunk,Earthy
@@ -1517,7 +1517,7 @@
 3902,Killer Queen,Hybrid,4.3,140.0,Myrcene,Euphoric,Dry mouth,Stress,Happy,Dry eyes,Pain,Uplifted,Dizzy,Anxiety,Creative,Paranoid,Depression,Relaxed,Headache,Fatigue,18.0,0.0,Sweet,Butter,Pungent
 3903,Alpha Express,Sativa,4.7,6.0,Myrcene,Energetic,Dry mouth,Insomnia,Uplifted,Anxious,Lack of appetite,Focused,N/A,Cramps,Talkative,N/A,Depression,Relaxed,N/A,Fatigue,17.0,0.0,Diesel,Earthy,Spicy/Herbal
 3905,Iced Widow,Indica,4.3,40.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Anxious,Depression,Uplifted,Paranoid,Insomnia,Hungry,N/A,Lack of appetite,Giggly,N/A,Pain,18.0,8.0,Sweet,Berry,Earthy
-3906,Fat Nelson,Hybrid,4.5,8.0,Myrcene,Euphoric,Dry eyes,Stress,Happy,Headache,ADD,Uplifted,N/A,Anxiety,Creative,N/A,Fatigue,Talkative,N/A,Muscle spasms,19.0,0.0,Pungent,Diesel,Sweet
+3906,Fat Nelson,Hybrid,4.5,8.0,Caryophyllene,Euphoric,Dry eyes,Stress,Happy,Headache,ADD,Uplifted,N/A,Anxiety,Creative,N/A,Fatigue,Talkative,N/A,Muscle spasms,19.0,0.0,Pungent,Diesel,Sweet
 3909,Medicine Woman,Hybrid,4.8,28.0,Myrcene,Uplifted,Dry mouth,Pain,Relaxed,Anxious,Cramps,Euphoric,Dry eyes,Inflammation,Happy,Paranoid,Depression,Creative,N/A,Muscle spasms,21.0,0.0,Earthy,Diesel,Pine
 3910,Panama Punch,Sativa,4.7,30.0,Myrcene,Uplifted,Dry eyes,Stress,Happy,Dry mouth,Anxiety,Euphoric,N/A,Depression,Tingly,N/A,Headaches,Relaxed,N/A,Eye pressure,14.0,5.0,Orange,Citrus,Pineapple
 3912,Juicy Fruit,Hybrid,4.1,647.0,Myrcene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Uplifted,Dizzy,Depression,Relaxed,Headache,Pain,Creative,Paranoid,Insomnia,16.0,4.0,Sweet,Citrus,Berry
@@ -1608,7 +1608,7 @@
 4124,Pineapple Upside Down Cake,Hybrid,4.5,94.0,Ocimene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Anxiety,Euphoric,Anxious,Pain,Uplifted,Paranoid,Depression,Energetic,N/A,Muscle spasms,21.0,0.0,Sweet,Earthy,Pineapple
 4131,Kosher Dawg,Hybrid,4.4,23.0,Myrcene,Happy,Anxious,Depression,Focused,Paranoid,Fatigue,Euphoric,N/A,Insomnia,Relaxed,N/A,Lack of appetite,Uplifted,N/A,Muscle spasms,20.0,11.0,Diesel,N/A,N/A
 4134,Pineapple Diesel,Hybrid,4.2,107.0,Myrcene,Uplifted,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Depression,Energetic,Anxious,Pain,Talkative,Headache,Fatigue,17.0,0.0,Diesel,Sweet,Pungent
-4137,Blockhead,Hybrid,4.0,75.0,Caryophyllene,Relaxed,Dry mouth,Anxiety,Sleepy,Dry eyes,Stress,Happy,Dizzy,Pain,Euphoric,Headache,Depression,Hungry,Paranoid,Insomnia,18.0,0.0,Earthy,Sweet,Pungent
+4137,Blockhead,Hybrid,4.0,75.0,Limonene,Relaxed,Dry mouth,Anxiety,Sleepy,Dry eyes,Stress,Happy,Dizzy,Pain,Euphoric,Headache,Depression,Hungry,Paranoid,Insomnia,18.0,0.0,Earthy,Sweet,Pungent
 4139,Bob Saget,Sativa,4.9,24.0,Myrcene,Happy,Dizzy,Stress,Uplifted,Dry mouth,Pain,Euphoric,Dry eyes,Depression,Creative,Headache,Fatigue,Energetic,N/A,Anxiety,18.0,0.0,Sage,Diesel,Earthy
 4140,Alpha Blue,Sativa,4.5,113.0,Myrcene,Uplifted,Dry mouth,Stress,Happy,Dry eyes,Depression,Energetic,Anxious,Anxiety,Euphoric,Dizzy,Pain,Relaxed,Paranoid,Fatigue,19.0,11.0,Blueberry,Diesel,Sweet
 4142,Snowball,Hybrid,4.7,27.0,Caryophyllene,Relaxed,Dizzy,Pain,Euphoric,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Tingly,Headache,Depression,Sleepy,N/A,Arthritis,23.0,0.0,Earthy,N/A,N/A
@@ -1717,7 +1717,7 @@
 4372,El Niño,Hybrid,3.7,32.0,Pinene,Euphoric,Dry eyes,Stress,Uplifted,Dry mouth,Insomnia,Happy,Headache,Anxiety,Sleepy,Paranoid,Depression,Relaxed,N/A,Pain,20.0,2.0,Sweet,Earthy,Tropical
 4375,Atmosphere,Hybrid,4.8,18.0,Myrcene,Euphoric,Anxious,Stress,Uplifted,Dry eyes,Depression,Relaxed,Dry mouth,Lack of appetite,Happy,N/A,Anxiety,Tingly,N/A,Fatigue,19.0,8.0,Pungent,Woody,Spicy/Herbal
 4376,Purple Martian,Indica,4.5,15.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Happy,Headache,Insomnia,Sleepy,Dizzy,Pain,Uplifted,N/A,Depression,17.0,1.0,Berry,N/A,N/A
-4377,Duke Nukem,Hybrid,4.3,84.0,Linalool,Happy,Dry mouth,Stress,Creative,Anxious,Depression,Energetic,Paranoid,Fatigue,Uplifted,Dizzy,Anxiety,Relaxed,Dry eyes,ADD,20.0,0.0,Earthy,Skunk,Flowery
+4377,Duke Nukem,Hybrid,4.3,84.0,Limonene,Happy,Dry mouth,Stress,Creative,Anxious,Depression,Energetic,Paranoid,Fatigue,Uplifted,Dizzy,Anxiety,Relaxed,Dry eyes,ADD,20.0,0.0,Earthy,Skunk,Flowery
 4378,LA Chocolat,Hybrid,4.6,110.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Euphoric,Headache,Anxiety,Sleepy,Dizzy,Depression,Hungry,Anxious,Insomnia,17.0,9.0,Coffee,Earthy,Sweet
 4380,Casey Jones,Sativa,4.1,450.0,Caryophyllene,Uplifted,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Energetic,Dizzy,Pain,Euphoric,Paranoid,Depression,Creative,Headache,Fatigue,16.0,1.0,Citrus,Diesel,Earthy
 4381,Willy Wonka,Sativa,4.2,60.0,Terpinolene,Happy,Dry mouth,Depression,Uplifted,Dry eyes,Anxiety,Relaxed,Headache,Stress,Euphoric,Anxious,Pain,Talkative,Dizzy,Lack of appetite,20.0,0.0,Sweet,Diesel,Chemical
@@ -1780,7 +1780,7 @@
 4529,Sage and Sour,Sativa,4.2,238.0,Myrcene,Uplifted,Dry mouth,Stress,Euphoric,Dry eyes,Anxiety,Happy,Paranoid,Depression,Energetic,Dizzy,Pain,Focused,Headache,Fatigue,19.0,6.0,Diesel,N/A,N/A
 4532,Sour Blueberry,Hybrid,4.7,27.0,Myrcene,Relaxed,Dry eyes,Stress,Happy,Dry mouth,Nausea,Euphoric,N/A,Depression,Uplifted,N/A,Anxiety,Tingly,N/A,Lack of appetite,17.0,6.0,Diesel,N/A,N/A
 4535,Purple Animal Cookies,Hybrid,4.4,21.0,Caryophyllene,Relaxed,Dry mouth,Eye pressure,Euphoric,Anxious,Nausea,Happy,Dry eyes,Stress,Uplifted,Headache,Cramps,Tingly,N/A,Depression,18.0,0.0,Lavender,Earthy,Flowery
-4536,Lemongrass,Hybrid,4.5,11.0,Myrcene,Creative,Headache,Stress,Happy,Dry mouth,Anxiety,Energetic,Paranoid,Hypertension,Uplifted,N/A,N/A,Focused,N/A,N/A,17.0,0.0,Sweet,N/A,N/A
+4536,Lemongrass,Hybrid,4.5,11.0,Myrcene,Creative,Headache,Stress,Happy,Dry mouth,Anxiety,Energetic,Paranoid,Hypertension,Uplifted,N/A,N/A,Focused,N/A,N/A,17.0,0.0,Mint,N/A,N/A
 4537,Grape Krush,Indica,4.1,143.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Euphoric,Dizzy,Insomnia,Uplifted,Headache,Anxiety,Sleepy,Paranoid,Depression,17.0,1.0,Grape,Honey,Spicy/Herbal
 4538,Alien Rock Candy,Hybrid,4.6,230.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Euphoric,Dizzy,Insomnia,Uplifted,Paranoid,Depression,Sleepy,Anxious,Anxiety,21.0,0.0,Sweet,Earthy,Citrus
 4539,Samoa Kush,Hybrid,4.6,8.0,Limonene,Euphoric,Anxious,Depression,Talkative,Dizzy,Pain,Happy,Dry mouth,Stress,Focused,N/A,ADD,Uplifted,N/A,Anxiety,15.0,0.0,Earthy,N/A,N/A
@@ -1845,7 +1845,7 @@
 4698,Kandy Kush,Hybrid,4.3,563.0,Caryophyllene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Pain,Euphoric,Dizzy,Anxiety,Uplifted,Anxious,Depression,Hungry,Headache,Insomnia,18.0,1.0,Sweet,Lemon,Skunk
 4700,Oregon Diesel,Indica,4.5,98.0,Caryophyllene,Relaxed,Dry mouth,Stress,Happy,Dizzy,Anxiety,Euphoric,Dry eyes,Insomnia,Uplifted,Anxious,Depression,Sleepy,Headache,Pain,17.0,12.0,Earthy,Berry,Diesel
 4701,Jesus,Hybrid,4.6,58.0,Caryophyllene,Happy,Dry mouth,Pain,Relaxed,Anxious,Stress,Uplifted,Dizzy,Anxiety,Euphoric,Dry eyes,Depression,Creative,N/A,Insomnia,19.0,8.0,Earthy,Citrus,Pine
-4703,Night Terror,Indica,4.6,132.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Insomnia,Sleepy,Dizzy,Pain,Euphoric,Anxious,Anxiety,Uplifted,Paranoid,Depression,17.0,11.0,Blueberry,N/A,N/A
+4703,Night Terror,Indica,4.6,132.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Insomnia,Sleepy,Dizzy,Pain,Euphoric,Anxious,Anxiety,Uplifted,Paranoid,Depression,17.0,11.0,Sweet,N/A,N/A
 4706,Alpha OG,Hybrid,4.7,46.0,Limonene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Euphoric,Dizzy,Insomnia,Hungry,Headache,Headaches,Uplifted,Paranoid,Depression,18.0,0.0,Earthy,Pine,Spicy/Herbal
 4707,Purple Trainwreck,Hybrid,4.2,659.0,Terpinolene,Euphoric,Dry mouth,Stress,Happy,Dry eyes,Pain,Relaxed,Paranoid,Anxiety,Uplifted,Dizzy,Depression,Creative,Headache,Insomnia,16.0,1.0,Sweet,Earthy,Pine
 4709,Sour Dream,Hybrid,4.3,133.0,Myrcene,Happy,Dry mouth,Stress,Euphoric,Dry eyes,Depression,Uplifted,Anxious,Anxiety,Energetic,Dizzy,Pain,Creative,Paranoid,Fatigue,19.0,11.0,Diesel,Skunk,Berry
@@ -1868,7 +1868,7 @@
 4748,Alien Sour Apple,Hybrid,4.7,25.0,Caryophyllene,Euphoric,Dry eyes,Anxiety,Creative,Dry mouth,Depression,Energetic,N/A,Insomnia,Relaxed,N/A,Stress,Happy,N/A,Fatigue,13.0,0.0,Apple,Citrus,Sweet
 4757,Wonder Woman,Hybrid,4.5,167.0,Pinene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Depression,Uplifted,Headache,Anxiety,Euphoric,Anxious,Pain,Energetic,Dizzy,Fatigue,14.0,0.0,Pungent,Spicy/Herbal,Earthy
 4759,Bio-Jesus,Hybrid,4.6,250.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Euphoric,Dizzy,Insomnia,Sleepy,Anxious,Anxiety,Hungry,Headache,Depression,26.0,0.0,Earthy,Diesel,Chemical
-4760,Sherblato,Hybrid,4.3,35.0,Caryophyllene,Relaxed,Dry eyes,Anxiety,Happy,Dry mouth,Headaches,Euphoric,N/A,Lack of appetite,Hungry,N/A,Pain,Focused,N/A,Stress,18.0,0.0,Sweet,N/A,N/A
+4760,Sherblato,Hybrid,4.3,35.0,Caryophyllene,Relaxed,Dry eyes,Anxiety,Happy,Dry mouth,Headaches,Euphoric,N/A,Lack of appetite,Hungry,N/A,Pain,Focused,N/A,Stress,18.0,0.0,Mint,N/A,N/A
 4762,Northern Lights,Indica,4.4,3225.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Euphoric,Dizzy,Anxiety,Sleepy,Paranoid,Insomnia,Uplifted,Headache,Depression,16.0,4.0,Earthy,Sweet,Pine
 4763,Remedy,Indica,4.6,138.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Anxiety,Uplifted,Headache,Stress,Focused,Anxious,Inflammation,Sleepy,Dizzy,Headaches,1.0,13.0,Earthy,Woody,Citrus
 4764,Pineapple Super Silver Haze,Sativa,4.7,52.0,Terpinolene,Happy,Dry mouth,Depression,Uplifted,Dizzy,Stress,Euphoric,Dry eyes,Fatigue,Creative,Anxious,Anxiety,Energetic,Paranoid,PTSD,19.0,9.0,Pineapple,Citrus,Diesel
@@ -1945,7 +1945,7 @@
 4928,Sin Valley OG,Hybrid,4.5,51.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Insomnia,Euphoric,Anxious,Lack of appetite,Hungry,Dizzy,Pain,Uplifted,Paranoid,Anxiety,21.0,9.0,Earthy,Lemon,Citrus
 4929,Kahuna,Indica,4.2,6.0,Terpinolene,Uplifted,Dry eyes,Stress,Euphoric,Dry mouth,Pain,Talkative,N/A,Anxiety,Relaxed,N/A,Insomnia,Happy,N/A,Depression,14.0,2.0,Sweet,Orange,Tropical
 4934,Tuna Kush,Indica,4.5,85.0,Myrcene,Relaxed,Dry mouth,Stress,Sleepy,Dry eyes,Depression,Happy,Paranoid,Anxiety,Euphoric,Dizzy,Pain,Hungry,Anxious,Insomnia,18.0,0.0,Earthy,Pungent,Woody
-4935,CBD OX,Indica,5.0,5.0,Limonene,Sleepy,Dizzy,Depression,Happy,Dry eyes,Insomnia,Relaxed,Dry mouth,Pain,Euphoric,N/A,Stress,Aroused,N/A,Cramps,20.0,0.0,Flowery,Sweet,Berry
+4935,CBD OX,Indica,5.0,5.0,Caryophyllene,Sleepy,Dizzy,Depression,Happy,Dry eyes,Insomnia,Relaxed,Dry mouth,Pain,Euphoric,N/A,Stress,Aroused,N/A,Cramps,20.0,0.0,Flowery,Sweet,Berry
 4937,Glass Apple,Hybrid,4.6,27.0,Myrcene,Energetic,Paranoid,Stress,Happy,Dry mouth,Depression,Uplifted,Anxious,Fatigue,Talkative,Dry eyes,Headaches,Euphoric,N/A,Anxiety,18.0,0.0,Apple,Flowery,Citrus
 4938,Triple Cheese,Indica,4.6,35.0,Myrcene,Relaxed,Dry eyes,Pain,Euphoric,Dry mouth,Stress,Happy,Headache,Depression,Sleepy,Anxious,Lack of appetite,Uplifted,Dizzy,Insomnia,17.0,0.0,Cheese,Skunk,Pungent
 4939,Critical Mass,Indica,4.2,813.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Euphoric,Dizzy,Anxiety,Sleepy,Anxious,Depression,Uplifted,Paranoid,Insomnia,17.0,6.0,Earthy,Woody,Sweet
@@ -1982,7 +1982,7 @@
 5010,OG Shark,Hybrid,4.5,138.0,Myrcene,Relaxed,Dry mouth,Pain,Happy,Dry eyes,Stress,Uplifted,Paranoid,Anxiety,Euphoric,Anxious,Depression,Sleepy,Dizzy,Insomnia,21.0,0.0,Earthy,Woody,Pungent
 5011,Ice Queen,Hybrid,4.6,56.0,Caryophyllene,Happy,Dry mouth,Stress,Uplifted,Dry eyes,Depression,Relaxed,Dizzy,Anxiety,Creative,Headache,Pain,Euphoric,Paranoid,ADD,23.0,8.0,Sweet,Pepper,Spicy/Herbal
 5014,Dutch Crunch,Hybrid,4.2,9.0,Terpinolene,Relaxed,Dry mouth,Stress,Focused,Headache,Depression,Uplifted,Paranoid,Lack of appetite,Tingly,N/A,Pain,Talkative,N/A,Anxiety,16.0,6.0,Spicy/Herbal,Citrus,Pine
-5023,Jackalope,Sativa,4.3,13.0,Myrcene,Happy,Dizzy,Depression,Talkative,Dry eyes,Anxiety,Uplifted,Dry mouth,Fatigue,Energetic,Paranoid,Headaches,Euphoric,N/A,Stress,20.0,11.0,Citrus,Earthy,Flowery
+5023,Jackalope,Sativa,4.3,13.0,Terpinolene,Happy,Dizzy,Depression,Talkative,Dry eyes,Anxiety,Uplifted,Dry mouth,Fatigue,Energetic,Paranoid,Headaches,Euphoric,N/A,Stress,20.0,11.0,Citrus,Earthy,Flowery
 5025,King's Bread,Sativa,3.9,28.0,Myrcene,Euphoric,Headache,Stress,Uplifted,Dry mouth,Depression,Creative,Dizzy,Anxiety,Happy,Dry eyes,Fatigue,Focused,N/A,Pain,21.0,5.0,Earthy,N/A,N/A
 5035,Snow Bud,Hybrid,4.3,46.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Uplifted,Headache,Depression,Sleepy,Dizzy,Pain,Creative,Paranoid,Inflammation,16.0,4.0,Earthy,Skunk,Woody
 5038,Banana Kush,Hybrid,4.2,1164.0,Limonene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Anxiety,Euphoric,Dizzy,Pain,Uplifted,Paranoid,Depression,Creative,Headache,Insomnia,18.0,10.0,Sweet,Tropical,TreeFruit
@@ -1999,7 +1999,7 @@
 5059,Ghost OG,Hybrid,4.5,608.0,Myrcene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Pain,Euphoric,Paranoid,Anxiety,Uplifted,Dizzy,Depression,Sleepy,Anxious,Insomnia,18.0,0.0,Citrus,Earthy,Pungent
 5060,Cherry OG,Hybrid,4.2,160.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Anxious,Depression,Euphoric,Dizzy,Anxiety,Uplifted,Paranoid,Pain,Talkative,Dry eyes,Lack of appetite,18.0,4.0,Sweet,Berry,Earthy
 5061,Ultra Sour,Sativa,4.6,55.0,Myrcene,Happy,Dry eyes,Stress,Uplifted,Anxious,Depression,Creative,Dizzy,Pain,Euphoric,Dry mouth,Fatigue,Relaxed,Paranoid,Headaches,17.0,9.0,Diesel,Earthy,Lemon
-5062,Blue Dream CBD,Hybrid,4.7,19.0,Pinene,Uplifted,Dry mouth,Stress,Happy,Headache,Pain,Relaxed,N/A,Depression,Focused,N/A,Anxiety,Euphoric,N/A,Cramps,17.0,11.0,Blueberry,N/A,N/A
+5062,Blue Dream CBD,Hybrid,4.7,19.0,Pinene,Uplifted,Dry mouth,Stress,Happy,Headache,Pain,Relaxed,N/A,Depression,Focused,N/A,Anxiety,Euphoric,N/A,Cramps,17.0,11.0,Sweet,N/A,N/A
 5065,Orange Cookies,Hybrid,4.6,460.0,Terpinolene,Relaxed,Dry mouth,Stress,Happy,Dry eyes,Depression,Euphoric,Dizzy,Anxiety,Uplifted,Paranoid,Pain,Creative,Anxious,Lack of appetite,18.0,0.0,Orange,Citrus,Sweet
 5066,Early Pearl,Sativa,4.2,13.0,Pinene,Relaxed,Dry mouth,Eye pressure,Talkative,Dry eyes,Anxiety,Hungry,N/A,Headaches,Happy,N/A,Nausea,Euphoric,N/A,ADD,18.0,1.0,Sweet,Ammonia,Earthy
 5068,Big Wreck,Indica,4.2,58.0,Limonene,Euphoric,Dry mouth,Pain,Relaxed,Dry eyes,Stress,Happy,Anxious,Insomnia,Uplifted,Dizzy,Anxiety,Creative,Headache,Migraines,20.0,1.0,Earthy,Pungent,Flowery
@@ -2029,7 +2029,7 @@
 5136,Blueberry Skunk,Indica,4.3,125.0,Myrcene,Relaxed,Dry mouth,Stress,Euphoric,Dry eyes,Pain,Happy,Dizzy,Anxiety,Uplifted,Anxious,Depression,Giggly,Paranoid,Muscle spasms,18.0,1.0,Blueberry,Sweet,Berry
 5138,Purple Sour Diesel,Hybrid,4.2,266.0,Myrcene,Euphoric,Dry mouth,Stress,Happy,Dry eyes,Pain,Relaxed,Paranoid,Anxiety,Uplifted,Dizzy,Insomnia,Creative,Anxious,Depression,16.0,6.0,Diesel,Grape,Sweet
 5140,Blue Boy,Hybrid,4.1,54.0,Myrcene,Happy,Dry mouth,Stress,Relaxed,Dry eyes,Pain,Creative,Anxious,Depression,Energetic,Dizzy,Muscle spasms,Focused,Paranoid,Anxiety,18.0,11.0,Blueberry,Spicy/Herbal,Flowery
-5148,Cheetah Piss,Hybrid,4.7,54.0,Caryophyllene,Relaxed,Dry mouth,Anxiety,Euphoric,Dry eyes,Stress,Uplifted,Anxious,Depression,Happy,Dizzy,Pain,Creative,Headache,Fatigue,20.0,0.0,Sweet,N/A,N/A
+5148,Cheetah Piss,Hybrid,4.7,54.0,Caryophyllene,Relaxed,Dry mouth,Anxiety,Euphoric,Dry eyes,Stress,Uplifted,Anxious,Depression,Happy,Dizzy,Pain,Creative,Headache,Fatigue,20.0,0.0,Mint,N/A,N/A
 5150,Green Crack,Sativa,4.3,6559.0,Myrcene,Energetic,Dry mouth,Stress,Happy,Dry eyes,Depression,Uplifted,Paranoid,Anxiety,Euphoric,Anxious,Pain,Focused,Dizzy,Fatigue,17.0,6.0,Earthy,Citrus,Sweet
 5151,OG Glue Sniffer,Hybrid,4.6,17.0,Caryophyllene,Relaxed,Dry eyes,Stress,Happy,Dry mouth,Depression,Giggly,N/A,Inflammation,Euphoric,N/A,Muscle spasms,Uplifted,N/A,Pain,20.0,2.0,Diesel,Pungent,Sweet
 5153,Black Ice,Indica,3.9,73.0,Myrcene,Relaxed,Dry mouth,Stress,Sleepy,Dry eyes,Insomnia,Happy,Dizzy,Pain,Hungry,Anxious,Anxiety,Tingly,N/A,Depression,13.0,8.0,Pine,Berry,Mint
